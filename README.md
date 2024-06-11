@@ -2,6 +2,8 @@
 
 Este é um projeto de formulário de contato desenvolvido para a ONG "Todos Pela Educação". A aplicação foi construída utilizando HTML, CSS e VanillaJS (JavaScript puro) para proporcionar uma interface simples e eficiente para os usuários entrarem em contato com a ONG.
 
+Acesse agora: [Demo](https://todos-pela-educacao-formulario.vercel.app/)
+
 <p align="center">
   <img alt="Logo - Rocketseat" src=".github/screenshot.png" width="100%" />
 </p>
@@ -23,3 +25,5 @@ Este é um projeto de formulário de contato desenvolvido para a ONG "Todos Pela
 - **HTML**: Estrutura do formulário e da página.
 - **CSS**: Estilização do formulário e da página.
 - **JavaScript (VanillaJS)**: Validação dos campos e manipulação do DOM para fornecer feedback ao usuário.
+
+Made with 💚 by [Renato Khael](https://renatokhael.dev)
